@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 main: com.swiftpenguin.FlyTime
 version: 1.6
 name: FlyTime
@@ -33,40 +32,3 @@ permissions:
         default: op
     flytime.give:
         description: allows giving fly
-=======
-main: com.swiftpenguin.FlyTime
-version: 1.6
-name: FlyTime
-author: Cobwebster
-
-commands:
-  flytime:
-     description: FlyTime Cmd
-     usuage: /<command>
-
-permissions:
-    flytime.skyblockfly:
-        description: allows askyblock fly
-        default: op
-    flytime.buy:
-        description: allows flytime usage
-        default: op
-    flytime.factionsfly:
-        description: allows factions fly
-        default: op
-    flytime.chatreactionfly:
-        description: allows chatreaction fly
-        default: op
-    flytime.reload:
-        description: allows reload
-        default: op
-    flytime.jobsreborn:
-        description: allows jobsreborn fly
-        default: op
-    flytime.vip:
-        description: allows discounted fly
-        default: op
-    flytime.give:
-        description: allows giving fly
->>>>>>> 2fe1d9cb541fc6de1cf021ce2c0893e2a1bad4c7
-        default: op
