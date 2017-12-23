@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Factions">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/Factions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/Factions.jar!/" />
+    </SOURCES>
+  </library>
+</component>
