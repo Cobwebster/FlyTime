@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Better FlyTime by Cobwebster
 # FlyTime Values, 1 = 1minute (Times should always be above 2, warning executes on your time minus 1 minute)
 # Config changes automatically added upon updating.
@@ -27,3 +28,34 @@ Messages:
   Disable: "[FlyTime] Flight Disabled"
   Warn: "[FlyTime] Your Flight Time is about to run out. Find somewhere to land!"
 
+=======
+# Better FlyTime by Cobwebster
+# FlyTime Values, 1 = 1minute (Times should always be above 2, warning executes on your time minus 1 minute)
+# Config changes automatically added upon updating.
+# ChatReaction & JobsReborn Hooks require players to have permissions.
+# DO NOT EDIT Version
+Version: 2
+FlightSound:
+  Sound:  "BLOCK_NOTE_HARP"
+  Volume: 10
+  Pitch: 1
+  Enabled: true
+BuyFlyTime:
+  Enabled:  true
+  FlyTime: 5
+  Cost: 400
+  Discounted-Cost: 200
+ChatReaction:
+  Enabled:  false
+  FlyTime: 5
+JobsReborn:
+  Enabled:  false
+  FlyTime: 5
+aSkyBlock:
+  Enabled:  false
+Messages:
+  Enable: "[FlyTime] Flight Enabled"
+  Disable: "[FlyTime] Flight Disabled"
+  Warn: "[FlyTime] Your Flight Time is about to run out. Find somewhere to land!"
+
+>>>>>>> 2fe1d9cb541fc6de1cf021ce2c0893e2a1bad4c7
