@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="GriefPrevention">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/GriefPrevention.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/spigot-api-1.12.2-R0.1-SNAPSHOT-b1460.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/ChatReaction-1.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Plugins/Dependency/Vault (5).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

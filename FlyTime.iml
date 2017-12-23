@@ -8,5 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="askyblock (2)" level="project" />
+    <orderEntry type="library" name="GriefPrevention" level="project" />
+    <orderEntry type="library" name="spigot-api-1.12.2-R0.1-SNAPSHOT-b1460" level="project" />
   </component>
 </module>

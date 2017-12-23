@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.swiftpenguin;
 
 import net.milkbowl.vault.economy.Economy;
